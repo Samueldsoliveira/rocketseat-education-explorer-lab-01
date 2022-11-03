@@ -22,7 +22,7 @@ Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologia
 </p>
 
 <p align="center">
-  <img alt="gif" src="src/gif-explorer.gif" width="100%">
+  <img alt="gif" src="src/gif-explorer-01.gif" width="100%">
 </p>
 
 ## 🚀 Tecnologias
